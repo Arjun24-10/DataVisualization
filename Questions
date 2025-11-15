@@ -1,0 +1,14 @@
+These are the questions that I will be answering in my data visuvalisatioon case study
+In my case study i will be mainly using matplotlib, seaborn, altire
+Some other basic python modules have also been used to modify/change my data/data formate for making visuvalisation easier
+
+1. How does life expectancy vary by continent or income group (low, middle, high income)?
+2. What is the relationship between GDP per capita and life expectancy across countries?
+3. Do countries with higher literacy or school enrollment rates tend to have higher life expectancy?
+4. How does healthcare spending as a percentage of GDP affect life expectancy?
+5. Is there a visible difference in life expectancy between high CO₂-emitting countries and low emitters?
+6. How have life expectancy, healthcare spending, and education evolved over time for selected countries?
+7. Which countries spend heavily on healthcare but do not achieve high life expectancy?
+8. Do richer countries with higher education spending achieve better health despite emissions?
+9. Which countries show the greatest improvement in life expectancy over the last 20 years, and what factors contributed? 
+10. Do countries with balanced investment in both education and healthcare outperform those that prioritize only one in terms of life expectancy?
